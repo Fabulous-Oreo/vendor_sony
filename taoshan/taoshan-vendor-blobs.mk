@@ -66,7 +66,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/taoshan/proprietary/framework/com.google.widevine.software.drm.jar:system/framework/com.google.widevine.software.drm.jar \
     vendor/sony/taoshan/proprietary/lib/hw/camera.vendor.msm8960.so:system/lib/hw/camera.vendor.msm8960.so \
     vendor/sony/taoshan/proprietary/lib/hw/lights.vendor.msm8960.so:system/lib/hw/lights.vendor.msm8960.so \
-    vendor/sony/taoshan/proprietary/lib/hw/sensors.msm8960.so:system/lib/hw/sensors.msm8960.so \
     vendor/sony/taoshan/proprietary/lib/libacdbloader.so:system/lib/libacdbloader.so \
     vendor/sony/taoshan/proprietary/lib/libadsprpc.so:system/lib/libadsprpc.so \
     vendor/sony/taoshan/proprietary/lib/libalsa-intf.so:system/lib/libalsa-intf.so \
